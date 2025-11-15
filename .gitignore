@@ -192,3 +192,6 @@ Thumbs.db
 !.gitignore
 !.nvmrc
 !.phpcs.xml.dist
+
+output/
+demo_*/
